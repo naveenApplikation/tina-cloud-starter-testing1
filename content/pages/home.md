@@ -29,7 +29,7 @@ blocks:
           name: BiCodeBlock
           color: red
           style: float
-        title: Amazing Feature
+        title: Amazing Features
         text: >-
           Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
           Praesent ac faucibus risus, eu lacinia enim.
@@ -50,4 +50,5 @@ blocks:
     color: tint
     _template: features
 ---
+
 
